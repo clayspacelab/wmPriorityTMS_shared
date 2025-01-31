@@ -11,6 +11,9 @@ For data/model output, see: https://osf.io/f4vrq/
 Code written in Matlab and R.
 
 Relies on the following matlab packages, not included:
+
 PERMUTOOLS - https://github.com/mickcrosse/PERMUTOOLS
+
 subtightplot - https://www.mathworks.com/matlabcentral/fileexchange/39664-subtightplot
+
 BrewerMap - https://github.com/DrosteEffect/BrewerMap
